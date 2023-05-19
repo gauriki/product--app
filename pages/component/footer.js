@@ -56,7 +56,7 @@ export function Footer() {
             Contact
           </p>
           <p className="text-[16px] leading-[22px] font-medium text-[#7a7a7a] border-r-2 border-inherit px-4">
-            Download
+            Download..
           </p>
         </div>
         <p className="my-6 font-normal text-[14px] text-[#606060] leading-[20px]">
